@@ -25,7 +25,7 @@ function getProductDetails() {
     productDetails["carrots"] = {};
     productDetails["carrots"]["image"] = "carrots.gif";
     productDetails["carrots"]["name"] = "Carrots";
-    productDetails["carrots"]["description"] = "not just for rabbits";
+    productDetails["carrots"]["description"] = "Not just for rabbits";
     productDetails["carrots"]["units"] = "1kg";
     productDetails["carrots"]["price"] = 0.99;
 
