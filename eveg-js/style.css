@@ -1,0 +1,37 @@
+.produce{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+table{
+  margin: auto;
+}
+tr {
+  position: centre;
+}
+.prodName{
+  font-size: 30px;
+}
+.prodDesc{
+  font-size: 20px;
+  text-align: centre;
+  margin: auto;
+}
+#cart{
+  position: fixed;
+  right: 5px;
+  top: 5px;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+#homepage{
+    position: fixed;
+    left: 5px;
+    top: 5px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px
+}
